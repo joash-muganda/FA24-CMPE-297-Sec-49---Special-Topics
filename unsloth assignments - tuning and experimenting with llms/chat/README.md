@@ -30,7 +30,7 @@ This repository contains notebooks and videos for tuning and experimenting with 
 
 ### 7. [llama_3_1_coding_finetune.ipynb](./llama_3_1_coding_finetune.ipynb)
 - **Description**: Fine-tuning Llama 3.1 (8B) for coding tasks.
-- **Video Explanation**: [Watch Video](#)
+- **Video Explanation**: [Watch Video](https://drive.google.com/file/d/1I5OTiLDhaUZkdipXMEhuEC720ZzTp5Da/view?usp=sharing)
 
 ### 8. [mental_health_chatbot.ipynb](./mental_health_chatbot.ipynb)
 - **Description**: Fine-tuning a mental health chatbot using Unsloth.
