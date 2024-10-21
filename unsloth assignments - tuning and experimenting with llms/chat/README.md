@@ -6,7 +6,7 @@ This repository contains notebooks and videos for tuning and experimenting with 
 
 ### 1. [Llama_3_1_8B_Chat.ipynb](./Llama_3_1_8B_Chat.ipynb)
 - **Description**: Fine-tuning Llama 3.1 (8B) for chat tasks.
-- **Video Explanation**: [Watch Video](#)
+- **Video Explanation**: [Watch Video](https://drive.google.com/file/d/1I5OTiLDhaUZkdipXMEhuEC720ZzTp5Da/view?usp=sharing)
 
 ### 2. [classification_chat_template.ipynb](./classification_chat_template.ipynb)
 - **Description**: Chat template for classification tasks.
@@ -34,7 +34,7 @@ This repository contains notebooks and videos for tuning and experimenting with 
 
 ### 8. [mental_health_chatbot.ipynb](./mental_health_chatbot.ipynb)
 - **Description**: Fine-tuning a mental health chatbot using Unsloth.
-- **Video Explanation**: [Watch Video](#)
+- **Video Explanation**: [Watch Video](https://drive.google.com/file/d/1Fvrr1ql3DEunynME1AUvlGY8B6pwEchy/view?usp=sharing)
 
 ### 9. [mistral_nemo_chatbot_finetune_ipynb.ipynb](./mistral_nemo_chatbot_finetune_ipynb.ipynb)
 - **Description**: Fine-tuning Mistral NeMo (12B) for chatbot tasks.
@@ -50,7 +50,7 @@ This repository contains notebooks and videos for tuning and experimenting with 
 
 ### 12. [reward_modeling_with_orpo_notebook.ipynb](./reward_modeling_with_orpo_notebook.ipynb)
 - **Description**: Reward modeling with ORPO.
-- **Video Explanation**: [Watch Video](#)
+- **Video Explanation**: [Watch Video](https://drive.google.com/file/d/1tXYyMGjnbp2KbGHFKa2yKLIMURKGegzF/view?usp=sharing)
 
 ### 13. [tinyllama_new_language_pretraining.ipynb](./tinyllama_new_language_pretraining.ipynb)
 - **Description**: Continued pretraining TinyLlama to learn a new language.
@@ -58,11 +58,11 @@ This repository contains notebooks and videos for tuning and experimenting with 
 
 ### 14. [unsloth_multiple_dataset_finetuning_updated.ipynb](./unsloth_multiple_dataset_finetuning_updated.ipynb)
 - **Description**: Fine-tuning across multiple datasets using Unsloth.
-- **Video Explanation**: [Watch Video](#)
+- **Video Explanation**: [Watch Video](https://drive.google.com/file/d/1dkYw7DbekAfO9EuweC9GR-LXvTz9eqgZ/view?usp=sharing)
 
 ### 15. [unsloth_ollama_export.ipynb](./unsloth_ollama_export.ipynb)
 - **Description**: Exporting a fine-tuned model to Ollama for inference.
-- **Video Explanation**: [Watch Video](#)
+- **Video Explanation**: [Watch Video](https://drive.google.com/file/d/1rgCEwmcL7dHWlo439c1fpdJeg_MG2oPH/view?usp=sharing)
 
 ## Assignment Overview
 
