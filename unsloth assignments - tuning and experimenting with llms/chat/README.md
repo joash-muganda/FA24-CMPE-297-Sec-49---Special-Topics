@@ -22,7 +22,7 @@ This repository contains notebooks and videos for tuning and experimenting with 
 
 ### 5. [fine_tuning_from_custom_checkpoint_.ipynb](./fine_tuning_from_custom_checkpoint_.ipynb)
 - **Description**: Fine-tuning from a custom checkpoint using Unsloth.
-- **Video Explanation**: [Watch Video](#)
+- **Video Explanation**: [Watch Video](https://drive.google.com/file/d/1nYPtJRQR5fNKAeC3VlhiIHJZOqgcodAK/view?usp=sharing)
 
 ### 6. [gemma2_text_classification_finetune.ipynb](./gemma2_text_classification_finetune.ipynb)
 - **Description**: Fine-tuning Gemma 2 for text classification.
