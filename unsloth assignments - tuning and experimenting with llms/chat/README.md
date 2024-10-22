@@ -10,7 +10,7 @@ This repository contains notebooks and videos for tuning and experimenting with 
 
 ### 2. [classification_chat_template.ipynb](./classification_chat_template.ipynb)
 - **Description**: Chat template for classification tasks.
-- **Video Explanation**: [Watch Video](#)
+- **Video Explanation**: [Watch Video](https://drive.google.com/file/d/1ThC-sFlbJ0x5k8uZoASZe16_f_Xc5PMl/view?usp=sharing)
 
 ### 3. [conversational_chat_template.ipynb](./conversational_chat_template.ipynb)
 - **Description**: Chat template for conversational AI tasks.
